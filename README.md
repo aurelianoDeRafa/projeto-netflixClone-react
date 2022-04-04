@@ -22,6 +22,3 @@
 
 
  
-### 💻 Tecnologia utilizada
-
-- REACT       
